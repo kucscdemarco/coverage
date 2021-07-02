@@ -3,3 +3,12 @@ pip install coverage
 python3 -m coverage run -m unittest test.py
 python3 -m coverage report
 python3 -m coverage html
+
+#git
+git init
+git remote add origin <url>
+git add .
+git commit -m 'comment'
+git remote -v
+git push git push --set-upstream origin master
+login un & pw
