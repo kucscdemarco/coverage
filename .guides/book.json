@@ -1,0 +1,17 @@
+{
+ "name": "Examples",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "9a9d478c-189c-1d2a-95b5-928167780243",
+   "pageId": "9a9d478c-189c-1d2a-95b5-928167780243",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "d7bb4499-a608-ca90-b039-9e026674cdf7",
+   "pageId": "d7bb4499-a608-ca90-b039-9e026674cdf7",
+   "type": "page"
+  }
+ ]
+}
